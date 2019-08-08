@@ -1,0 +1,57 @@
+/*============================================================================*/
+/*============================================================================*/
+/*=================copyright kwenpam 2019 all right reserved==================*/
+/*============================================================================*/
+/*============================================================================*/
+
+@import url('https://fonts.googleapis.com/css?family=Noto+Sans+JP&display=swap');
+
+*{
+  margin: 0px;
+  padding: 0px;
+}
+
+header{
+  background-color: rgb(254,198,0);
+
+  padding-top: 5px;
+  padding-bottom: 5px;
+}
+
+.log{
+  color: white;
+  font-weight: bold;
+  font-family: 'Noto Sans JP', sans-serif;
+}
+
+.prog{
+  text-align: center;
+
+  margin-top: 70px;
+}
+
+.pap{
+  text-align: center;
+}
+
+.kat{
+  padding: 5px;
+  margin: 5px;
+}
+.avatar{
+
+}
+
+@media only screen and (max-width: 575px)  {
+
+.kat{
+  padding: 5px;
+  margin: 5px;
+}
+
+.avatar{
+  border: 50% 50%;
+}
+
+
+}
